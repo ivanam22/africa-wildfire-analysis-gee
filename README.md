@@ -1,6 +1,7 @@
 # Africa Wildfire Analysis (Google Earth Engine)
 
-This project analyzes wildfire activity across Africa using MODIS satellite data in Google Earth Engine.
+Wildfire activity analysis across Africa using MODIS satellite data in Google Earth Engine.  
+Includes an interactive map interface to visualize active fires, burned areas, and Fire Radiative Power (FRP).
 
 Story Map
 Interactive project presentation:
@@ -11,17 +12,16 @@ Datasets used:
 - MODIS Active Fire (MYD14A1)
 - MODIS Burned Area (MCD64A1)
 
-The script calculates:
-- Active fire pixels
-- Fire Radiative Power (FRP)
-- Burned areas
-
-An interactive interface allows users to switch between layers:
-- MOD active fire
-- MYD active fire
-- Burned area
-- MOD FRP
-- MYD FRP
+Analysis Includes
+- Active fire pixels  
+- Fire Radiative Power (FRP)  
+- Burned areas  
+- Interactive layer switching:  
+  - MOD active fire  
+  - MYD active fire  
+  - Burned area  
+  - MOD FRP  
+  - MYD FRP
 
 Tools used:
 - Google Earth Engine
