@@ -2,8 +2,8 @@
 
 This project analyzes wildfire activity across Africa using MODIS satellite data in Google Earth Engine.
 
-       Story Map
-       Interactive project presentation:
+Story Map
+Interactive project presentation:
 [https://storymaps.arcgis.com/stories/xxxxx](https://storymaps.arcgis.com/stories/a7fb0e4148ae4a5793d08874fc622dbc)
 
 Datasets used:
