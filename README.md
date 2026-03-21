@@ -3,9 +3,8 @@
 Wildfire activity analysis across Africa using MODIS satellite data in Google Earth Engine.  
 Includes an interactive map interface to visualize active fires, burned areas, and Fire Radiative Power (FRP).
 
-Story Map
-Interactive project presentation:
-[https://storymaps.arcgis.com/stories/xxxxx](https://storymaps.arcgis.com/stories/a7fb0e4148ae4a5793d08874fc622dbc)
+## 🌍 Story Map
+Interactive project presentation:[https://storymaps.arcgis.com/stories/xxxxx](https://storymaps.arcgis.com/stories/a7fb0e4148ae4a5793d08874fc622dbc)
 
 Datasets used:
 - MODIS Active Fire (MOD14A1)
