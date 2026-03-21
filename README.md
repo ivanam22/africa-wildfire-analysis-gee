@@ -1,4 +1,3 @@
-
 # Africa Wildfire Analysis (Google Earth Engine)
 
 Wildfire activity analysis across Africa using MODIS satellite data in Google Earth Engine.  
