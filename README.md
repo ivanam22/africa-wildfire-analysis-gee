@@ -22,7 +22,7 @@ Interactive project presentation :[https://storymaps.arcgis.com/stories/xxxxx](h
   - MOD FRP  
   - MYD FRP
 
-Tools used:
+## Tools used:
 - Google Earth Engine
 - JavaScript
 - MODIS satellite data
