@@ -18,3 +18,6 @@ Remote sensing, big geospatial data, temporal analysis, spatial visualization
 
 ##  Story Map
 [Interactive project presentation](https://storymaps.arcgis.com/stories/a7fb0e4148ae4a5793d08874fc622dbc)
+
+## Motivation
+The goal of this project is to explore how satellite data can be used for large-scale environmental monitoring and analysis of natural phenomena.
